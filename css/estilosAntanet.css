@@ -1,0 +1,56 @@
+body {
+  padding-top: 70px;
+
+}
+
+.container {
+  padding-top: 70px;
+  border: solid 2px black;
+}
+
+.linea {
+  border-color: #000;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  width: 30px;
+}
+
+#menu{
+
+}
+
+#uno{
+  border: solid 2px black;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#dos{
+  border: solid 2px black;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#tres{
+  border: solid 2px black;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+
+#empresa {
+  padding: 10px;
+  text-align: center;
+}
+
+#servicios{
+  text-align: center;
+}
+
+#productos_proyectos{
+  text-align: center;
+}
+
+#contacto {
+
+}
